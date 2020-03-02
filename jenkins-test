@@ -1,2 +1,2 @@
-/usr/bin/echo "This is the script from git" >> /tmp/check
+/usr/bin/echo "This is the script from git - `date`" >> /tmp/check
 
